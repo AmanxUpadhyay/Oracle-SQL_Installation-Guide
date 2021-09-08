@@ -2,7 +2,7 @@
 
 ### Requirements
    - [Oracle Database XE version 11.2g](https://www.oracle.com/database/technologies/xe-prior-release-downloads.html)
-   - [SQL Developer 21.2.1](https://www.oracle.com/tools/downloads/sqldev-downloads.html)
+   - [SQL Developer 21.2.1](https://drive.google.com/file/d/19_jrK8aM6s9L8V_QqnLiw4HY3PtJ1Yrn/view?usp=sharing)
 
 *Please Download the Required Software First*
 
