@@ -1,7 +1,7 @@
 # Installation Guide for Oracle SQL and Database
 
 ### Requirements
-   - [Oracle Database XE version 11.2g](https://www.oracle.com/database/technologies/xe-prior-release-downloads.html)
+   - [Oracle Database XE version 11.2g](https://drive.google.com/drive/folders/1Dwo6LOKeNsdowa3E4Rxl67054u37qVkk?usp=sharing)
    - [SQL Developer 21.2.1](https://drive.google.com/file/d/19_jrK8aM6s9L8V_QqnLiw4HY3PtJ1Yrn/view?usp=sharing)
 
 *Please Download the Required Software First*
