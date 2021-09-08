@@ -33,6 +33,8 @@
   - You will see something like this: ```connected```
     <img src="connected.png">
 
+  ***Incase you see an error, goto start menu and search for *start database* and run that after that repeat the SQL Command Line.***
+
 - Open SQL Developer Now
   - *You might see a popup window for the first time. Click No*
   - You will see something like this: <img src="check.png">
